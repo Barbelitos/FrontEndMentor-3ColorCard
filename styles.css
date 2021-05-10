@@ -75,6 +75,7 @@ body {
     .main_card {
         display: flex;
         width: 65%;
+        margin: 6em auto;
     }
 
     .type_card {
